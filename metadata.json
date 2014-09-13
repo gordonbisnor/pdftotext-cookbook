@@ -1,0 +1,38 @@
+{  
+   "name":"pdftotext",
+   "description":"pdftotext install",
+   "long_description":"pdftotext install",
+   "maintainer":"Gordon B. Isnor",
+   "maintainer_email":"gordonbisnor@gmail.com",
+   "license":"none",
+   "platforms":{  
+      "ubuntu":">= 0.0.0"
+   },
+   "dependencies":{  
+
+   },
+   "recommendations":{  
+
+   },
+   "suggestions":{  
+
+   },
+   "conflicting":{  
+
+   },
+   "providing":{  
+
+   },
+   "replacing":{  
+
+   },
+   "attributes":{  
+
+   },
+   "groupings":{  
+
+   },
+   "recipes":{  
+   },
+   "version":"0.0.1"
+}
